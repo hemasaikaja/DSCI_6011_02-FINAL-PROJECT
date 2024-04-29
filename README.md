@@ -5,6 +5,7 @@ This project utilizes Deep Learning (DL) to achieve early detection and classifi
 
 ## Project Structure
 - **Datasets**: Includes the Rice Leaf Diseases and Tea Sickness datasets, which feature various classes of disease symptoms and healthy leaf images.
+- 
 https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
 https://www.kaggle.com/code/stpeteishii/tea-leaf-disease-classify-monai-pytorch/input
 - **Models**: Utilizes a variety of deep learning models, including ResNet18 and custom CNNs, tailored for the nuances of the specific datasets.
